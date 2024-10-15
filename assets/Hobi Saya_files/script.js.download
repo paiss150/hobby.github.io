@@ -1,0 +1,2 @@
+function showAlert () {
+	alert("a cat will be a cat and dog will not be a dog")
